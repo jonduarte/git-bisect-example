@@ -1,6 +1,6 @@
 class Print
   def me
-    'me'
+    'you'
   end
 end
 
