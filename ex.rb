@@ -2,6 +2,10 @@ class Print
   def me
     'you'
   end
+
+  def us
+    'us'
+  end
 end
 
 if $0 == $PROGRAM_NAME
